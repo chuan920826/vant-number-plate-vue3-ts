@@ -1,10 +1,10 @@
 # vant-number-plate_vue3+ts
 
 #### 介绍
-基于 @shumin 的 vant-number-plate改写的ts版
+
+这只是代码片段，基于 @shumin 的 vant-number-plate 改写的ts版
 
 #### 软件架构
-软件架构说明
 
 
 #### 安装教程
