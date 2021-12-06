@@ -1,8 +1,8 @@
 # vant-number-plate_vue3+ts
 
 #### Description
-基于 @shumin 的 vant-number-plate改写的ts版
-
+This is a code snippet about filling in a car license plate, which is based on shumin's vant-number-plate.
+The original author used vant+less, I just changed the function of demo1 to ts
 #### Software Architecture
 Software architecture description
 
